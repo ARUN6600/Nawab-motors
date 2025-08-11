@@ -1,2 +1,3 @@
 # Nawab-motors
-Excel + SQL + PowerBI
+
+SQL + PowerBI
