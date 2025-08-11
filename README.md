@@ -1,7 +1,7 @@
 # Nawab-motors (SQL + PowerBI)
 
 
-------------------------------------------------------------------------------------Car Sales Dashboard Project------------------------------------------------------------------------------------------------------
+------Car Sales Dashboard Project
 
 # Overview
 This project showcases a complete data analytics workflow—from raw Excel files to an interactive Power BI dashboard. The goal is to provide insights into car sales, ownership trends, insurance coverage, and service history using SQL and Power BI.
